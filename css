@@ -1,0 +1,108 @@
+body {
+    background: url(https://u2.photofunia.com/1/results/I/H/IHKXR3ddq0nbHH9i7Q6W0g_r.jpg);
+  background-size: cover;
+}
+
+.header {
+	float: left;
+    margin: 0px;
+    padding: 0px;
+  font-family: georgia;
+  background-color: #640D14;
+  color: white;
+  width: 100%;
+  border: 2px solid black;
+}
+
+.sidebar {
+    border: 2px solid black;
+    font: bold;
+    background-color: #38040E;
+    color: white;
+    clear:both;
+    height: 269px;
+    width: 200px;
+    float: left;
+}
+
+.content {
+    display: inline-block;
+}
+
+.menu {
+    text-align: center;
+    font-family: georgia;
+    font-size: 30px;
+}
+
+hr {
+    clear: left;
+}
+
+.abouthome {
+  width: 800px;
+  height: 250px;
+  position: relative;
+  left: 250px;
+  margin: 0px 10px 20px;
+  padding: 10px;
+  border: 1px solid black;
+  text-align: left;
+  background-color: #cecece;
+  opacity: 0.8;
+}
+
+.recent {
+  width: 800px;
+  height: 800px;
+  position: relative;
+  left: 200px;
+  margin: 0px 10px 30px 60px;
+  padding: 5px;
+  border: 1px solid black;
+  text-align: center;
+  background-color: #cecece;
+  opacity: 0.8;
+}
+
+.footer {
+  font-family: georgia;
+  background-color: #250902;
+  color: white;
+  border: 2px solid black;
+  bottom: 0;
+  clear: both;
+}
+
+.entry1 {
+  text-align: left;
+  border: 1px solid black;
+  padding: 5px 10px;
+  display: inline-block;
+  position: relative;
+  left: -10px;
+  width: 700px;
+}
+
+.desciption {
+  font-style: italic;
+  width: 250px;
+  margin: 0px;
+  padding: 0px;
+  display: inline-block;
+  border: 2px dotted blue;
+}
+
+.guthrie-photo {
+  width: 350px;
+  margin: 0px;
+  padding: 0px;
+  position: relative;
+  left: 70px;
+  display: inline-block;
+}
+
+.guthrie-photo img {
+  width:100%;
+}
+  
